@@ -1,4 +1,4 @@
-#Type Speed Test
+# Type Speed Test
 
 Welcome to the Typing Speed Testing Application! This project is designed to accurately calculate Words Per Minute (WPM) for users, with enhanced features to provide a user-friendly and enjoyable experience.
 
